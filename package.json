@@ -1,0 +1,35 @@
+{
+  "name": "create-cjet-h5",
+  "version": "1.0.0",
+  "keywords": [
+    "react"
+  ],
+  "description": "移动端H5企业级应用解决方案",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chanjet/create-cjet-h5.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=8"
+  },
+  "files": [
+    "index.js",
+    "create-cjet-h5.js",
+    "yarn.lock.cached"
+  ],
+  "bin": {
+    "create-cjet-h5": "./index.js"
+  },
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "chalk": "3.0.0",
+    "commander": "4.1.0",
+    "cross-spawn": "7.0.1",
+    "download-git-repo": "^3.0.2",
+    "fs-extra": "8.1.0",
+    "ora": "^4.0.3",
+    "semver": "6.3.0",
+    "validate-npm-package-name": "3.0.0"
+  }
+}
