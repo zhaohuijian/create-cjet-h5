@@ -15,7 +15,14 @@
   },
   "files": [
     "index.js",
-    "create-cjet-h5.js",
+    "createCjetH5.js",
+    "lib/checkAppName.js",
+    "lib/checkIfOnline",
+    "lib/checkThatNpmCanReadCwd.js",
+    "lib/checkVersion.js",
+    "lib/downloadGithub.js",
+    "lib/install.js",
+    "lib/isSafeToCreateProjectIn",
     "yarn.lock.cached"
   ],
   "bin": {
