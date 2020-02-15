@@ -36,7 +36,6 @@ yarn create cjet-h5 chanjet-mobile
 chanjet-mobile
 ├── README.md
 ├── babel.config.js
-├── dist
 ├── node_modules
 ├── package.json
 ├── tsconfig.json
