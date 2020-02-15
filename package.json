@@ -1,13 +1,13 @@
 {
   "name": "create-cjet-h5",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "keywords": [
     "react"
   ],
   "description": "移动端H5企业级应用解决方案",
   "repository": {
     "type": "git",
-    "url": "https://github.com/chanjet/create-cjet-h5.git"
+    "url": "https://github.com/chanjet-fe/create-cjet-h5.git"
   },
   "license": "MIT",
   "engines": {
