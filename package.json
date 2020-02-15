@@ -17,12 +17,12 @@
     "index.js",
     "createCjetH5.js",
     "lib/checkAppName.js",
-    "lib/checkIfOnline",
+    "lib/checkIfOnline.js",
     "lib/checkThatNpmCanReadCwd.js",
     "lib/checkVersion.js",
     "lib/downloadGithub.js",
     "lib/install.js",
-    "lib/isSafeToCreateProjectIn",
+    "lib/isSafeToCreateProjectIn.js",
     "yarn.lock.cached"
   ],
   "bin": {
