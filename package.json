@@ -4,7 +4,7 @@
   "keywords": [
     "react"
   ],
-  "description": "移动端H5企业级应用解决方案",
+  "description": "零配置快速创建移动端 H5 企业级应用",
   "repository": {
     "type": "git",
     "url": "https://github.com/chanjet-fe/create-cjet-h5.git"

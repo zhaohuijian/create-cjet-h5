@@ -1,4 +1,10 @@
-# create-cjet-h5
+<a href="https://www.npmjs.com/package/create-cjet-h5">
+  <img src="https://img.shields.io/npm/v/create-cjet-h5.svg" alt="npm-version"></a>
+  <img src="https://img.shields.io/npm/dm/create-cjet-h5.svg" alt="download-num">
+  <img src="https://img.shields.io/badge/node-%3E=8.16.0-brightgreen.svg" alt="node">
+  <img src="https://img.shields.io/npm/l/create-cjet-h5.svg" alt="license">
+  <img src="https://img.shields.io/badge/platform-MacOS%7CLinux%7CWindows-lightgrey.svg" alt="platform">
+# create-cjet-h5  
 
 零配置快速创建移动端 H5 企业级应用。
 
