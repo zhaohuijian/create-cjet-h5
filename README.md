@@ -55,6 +55,12 @@ chanjet-mobile
 ├── node_modules
 ├── package.json
 ├── tsconfig.json
+├── public
+│   ├── favicon.ico
+│   ├── lib
+│   │   ├── es6-promise.min.js
+│   │   └── fastclick.js
+│   └── manifest.json
 └── src
     ├── App.module.less
     ├── App.tsx
@@ -62,12 +68,6 @@ chanjet-mobile
     ├── index.less
     ├── index.tsx
     ├── logo.svg
-    ├── public
-    │   ├── favicon.ico
-    │   ├── lib
-    │   │   ├── es6-promise.min.js
-    │   │   └── fastclick.js
-    │   └── manifest.json
     ├── react-app-env.d.ts
     └── serviceWorker.js
 ```
