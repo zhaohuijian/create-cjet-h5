@@ -26,7 +26,7 @@ cd chanjet-mobile
 
 npm run dev #开发环境
 
-npm run build #生产环境
+npm run build #生产构建
 ```
 
 #### 更多安装方式
