@@ -20,7 +20,11 @@
 ## 快速开始
 
 ```bash
+# 创建 企业级H5应用开发框架-基础版
 npx create-cjet-h5 chanjet-mobile
+
+# 创建 企业级H5应用开发框架-专业版
+npx create-cjet-h5 chanjet-mobile --pro
 
 cd chanjet-mobile
 
@@ -36,13 +40,21 @@ npm run build #生产构建
 ##### npm
 
 ```bash
+# 创建 企业级H5应用开发框架-基础版
 npm init cjet-h5 chanjet-mobile
+
+# 创建 企业级H5应用开发框架-专业版
+npm init cjet-h5 chanjet-mobile --pro
 ```
 
 ##### yarn
 
 ```bash
+# 创建 企业级H5应用开发框架-基础版
 yarn create cjet-h5 chanjet-mobile
+
+# 创建 企业级H5应用开发框架-专业版
+yarn create cjet-h5 chanjet-mobile --pro
 ```
 
 将在当前文件夹中创建一个名为`chanjet-mobile`的目录。
@@ -71,6 +83,12 @@ chanjet-mobile
     ├── react-app-env.d.ts
     └── serviceWorker.js
 ```
+
+## 更多信息
+
+- 企业级 H5 应用开发框架-基础版：[https://github.com/chanjet-fe/cjet-h5-template](https://github.com/chanjet-fe/cjet-h5-template)
+
+- 企业级 H5 应用开发框架-专业版：[https://github.com/chanjet-fe/cjet-h5-pro-template](https://github.com/chanjet-fe/cjet-h5-pro-template)
 
 ## License
 
