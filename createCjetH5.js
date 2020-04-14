@@ -36,6 +36,7 @@ const program = new commander.Command(packageJson.name)
     projectName = name;
   })
   .option('--verbose', 'print additional logs')
+  .option('--pro', '安装专业版企业级H5应用开发框架')
   .option('--use-npm')
   .option('--use-pnp')
   .allowUnknownOption()
@@ -95,7 +96,7 @@ async function createApp(
     process.exit(1);
   }
 
-  await downloadGithub(root);
+  await downloadGithub(root, program.pro);
 
   const appPackage = require(path.join(root, 'package.json'));
 
