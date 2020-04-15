@@ -15,7 +15,17 @@
 - 支持 antd 组件主题定制
 - 集成工程化开发及构建的最佳实践
 
-> More see info:[https://github.com/chanjet-fe/cjet-h5-template](https://github.com/chanjet-fe/cjet-h5-template)
+### 高级特性（专业版）
+
+- 集成 React-router 和 React-router-dom 路由方案
+- 集成 Mobx 和 Mobx-react 状态管理
+- 集成 react-transition-group 路由切换动画方案
+- 集成众多 antdMobile 组件示例
+- 集成众多完善的业务场景组件（待持续更新...）
+- 集成组件化开发的最佳实践
+- 集成路由配置的最佳实践
+- 集成状态管理的最佳实践
+- 集成代码分割及按需加载的最佳实践
 
 ## 快速开始
 
@@ -84,7 +94,7 @@ chanjet-mobile
     └── serviceWorker.js
 ```
 
-## 更多信息
+## 查看更多信息
 
 - 企业级 H5 应用开发框架-基础版：[https://github.com/chanjet-fe/cjet-h5-template](https://github.com/chanjet-fe/cjet-h5-template)
 
