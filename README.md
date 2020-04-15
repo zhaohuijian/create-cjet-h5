@@ -68,7 +68,7 @@ yarn create cjet-h5 chanjet-mobile --pro
 ```
 
 将在当前文件夹中创建一个名为`chanjet-mobile`的目录。
-在该目录内，它将生成初始项目结构并安装可相关依赖项：
+在该目录内，它将生成初始项目结构并安装相关依赖项：
 
 ```bash
 chanjet-mobile
